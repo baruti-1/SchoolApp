@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">SchoolApp</string>
+    <string name="adst_name">Register Student</string>
+    <string name="adsf_name">Register Staff</string>
+    <string name="phone_name">Phone number</string>
+    <string name="user_name">Username</string>
+    <string name="pss_name">Password</string>
+    <string name="dob_name">Date of Birth</string>
+    <string name="std_name">Register Student</string>
+    <string name="crs_name">Register Course</string>
+    <string name="stf_name">Register Staff</string>
+    <string name="vw_name">VIEW STUDENTS</string>
+    <string name="vwst_name">VIEW STAFFS</string>
+    <string name="usr_name">Username:</string>
+    <string name="pwd_name">Password:</string>
+    <string name="lout_name">Logout</string>
+    <string name="husr_name">Enter username</string>
+    <string name="hpwd_name">Enter password</string>
+    <string name="login_name">Login</string>
+    <string name="fname_name">First name</string>
+    <string name="mname_name">Middle name</string>
+    <string name="lname_name">Last name</string>
+    <string name="mail_name">E-mail address</string>
+    <string name="admn_name">Welcome Admin</string>
+    <string-array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    <string name="tstd_name">REGISTER STUDENT</string>
+    <string name="tsst_name">REGISTER STAFF</string>
+    <string name="crse_name">Register Course</string>
+    <string name="crscd_name">Course Code</string>
+    <string name="crsnm_name">Course Name</string>
+    <string name="crdts_name">Credits</string>
+    <string name="semester_name">Semester</string>
+    <string name="year_name">Year of study</string>
+    <string name="regcrs_name">REGISTER COURSE</string>
+    <string name="vwcrs_name">VIEW COURSE</string>
+    <string-array name="course">
+        <item>Core</item>
+        <item>Option</item>
+    </string-array>
+
+</resources>
