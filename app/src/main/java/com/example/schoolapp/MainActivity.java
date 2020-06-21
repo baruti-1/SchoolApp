@@ -25,6 +25,8 @@ public class MainActivity extends AppCompatActivity {
         if(username.getText().toString().equals("admin") && password.getText().toString().equals("1234")){
             Intent login = new Intent(this, AdminActivity.class);
             startActivity(login);
+            // prevent return back to login activity when back is clicked
+            finish();
         }else if(username.getText().toString().isEmpty() || password.getText().toString().isEmpty()){
             Toast.makeText(getApplicationContext(), "Please enter username and password",Toast.LENGTH_LONG).show();
         }else{
